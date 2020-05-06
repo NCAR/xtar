@@ -1,0 +1,16 @@
+name: xtar-dev
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - zarr 
+  - netcdf4
+  - pip
+  - jupyterlab
+  - dask
+  - distributed
+  - matplotlib
+  - graphviz
+  - python-graphviz
+  - pip:
+     - ratarmount
