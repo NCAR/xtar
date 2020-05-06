@@ -131,3 +131,8 @@ dmypy.json
 dask-worker-space/
 *.tar
 *.sqlite
+
+# Temporary files
+/notebooks/data
+/notebooks/mounted_air_dataset
+/notebooks/dask-worker-space
