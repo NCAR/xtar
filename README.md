@@ -14,8 +14,14 @@ Install also libfuse in the above conda enviroment.
 conda activate xtar-dev
 conda install libfuse
 
+Get full path to the ratarmount in your conda enviroment
+
+which ratarmount
+/home1/datahome/todaka/conda-env/xtar-dev/bin/ratarmount
+
 go to jupyter-hub website on the HPC center 
 open notebook from xtar/notebooks/
 
+Use the full path of ratarmount in your enviroment
 
 
